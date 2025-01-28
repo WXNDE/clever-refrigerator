@@ -25,7 +25,7 @@ cd SmartFridge
 ```bash
 pip install -r requirements.txt
 ```
-Запустите приложение через Streamlit:
+- Запустите приложение через Streamlit:
 ```bash
 streamlit run main.py
 ```
