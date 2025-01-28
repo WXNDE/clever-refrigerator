@@ -24,7 +24,9 @@ cd SmartFridge
 Установите зависимости с помощью pip:
 ```bash
 pip install -r requirements.txt
+```
 Запустите приложение через Streamlit:
+```bash
 streamlit run main.py
 ```
 
