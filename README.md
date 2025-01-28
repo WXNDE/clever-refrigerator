@@ -25,7 +25,8 @@ cd SmartFridge
 pip install -r requirements.txt
 Запустите приложение через Streamlit:
 streamlit run main.py
-Структура проекта
+
+## Структура проекта
 
 app/- Модули приложения:
 demand.py- Просмотр аналитики потребления.
