@@ -22,9 +22,11 @@ SmartFridge - это приложение для управления содер
 git clone https://github.com/resdt/SmartFridge.git
 cd SmartFridge
 Установите зависимости с помощью pip:
+```bash
 pip install -r requirements.txt
 Запустите приложение через Streamlit:
 streamlit run main.py
+```
 
 ## Структура проекта
 
