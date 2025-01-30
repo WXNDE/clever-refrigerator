@@ -23,7 +23,7 @@ SmartFridge - это приложение для управления содер
 Локальное развертывание
 
 Склонируйте репозиторий на ваше устройство:
-git clone https://github.com/WXNDE/clever-refrigerator.git
+git clone <https://github.com/WXNDE/clever-refrigerator.git>
 cd SmartFridge
 
 Установите зависимости с помощью pip:
